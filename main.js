@@ -54,3 +54,5 @@ const area1 = function (width, length){
 
 const area2 = (width, length) => width * length;
 
+// of const area2 = (width, length) =>
+// return width * length;
